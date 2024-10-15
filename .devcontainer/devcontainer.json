@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/base:jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/python:1": {},
-		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {},
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:2": {},
 		"ghcr.io/deep-space-cartel/devcontainers-features/pip:1": {}
 	}
 
